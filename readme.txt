@@ -12,4 +12,8 @@ Git tracks changes.
 new new
 Creating a new branch is quick and simple.
 dev-------------readme
+<<<<<<< HEAD
 Git is a free software
+=======
+dev    -----------dev
+>>>>>>> dev
